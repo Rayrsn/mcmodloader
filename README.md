@@ -1,5 +1,6 @@
 # Minecraft Auto Mod Downloader (Rust rewrite)
-### A Rust program which automatically downloads mods from a given list.
+### A Rust program which automatically downloads mods from a given list 
+#### (Works on Windows and Linux with a little bit of configuration).
 * This program is a rework of my original [project](https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader) written entirely in rust
 # Requirements
 1. Upload your version of `mod.list` and `mod.ver`. (I suggest uploading them to a github repo because the script requires direct links to the raw file.)
