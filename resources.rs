@@ -1,1 +1,0 @@
-mcicon ICON ".\icon.ico"
